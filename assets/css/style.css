@@ -1,0 +1,42 @@
+div.wrapper{
+	width: 800px;
+	margin: 0 auto;
+}
+
+/*header */
+
+header{
+	text-align: center;
+}
+
+h1{
+	text-align: center;
+	font-size: 24px;
+}
+
+article h1{
+	font-size: 36px;
+}
+
+/* article */
+
+article{
+	width: 250px;
+	display: inline-block;
+	margin-right: 20px;
+	text-align: justify;
+}
+
+article.last-article{
+	margin-right: 0;
+}
+
+article h1 {
+  text-align: 24px;
+}
+
+/* footer */
+
+footer p{
+	text-align: right;
+}
